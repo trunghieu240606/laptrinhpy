@@ -1,0 +1,9 @@
+a = 17
+b = 5
+print("phép cộng = ", a + b)
+print("phép trừ = ", a - b)
+print("phép nhân = ", a * b)
+print("phép chia = ", a / b)
+print("phép chia phần nguyên = ", a // b)
+print("phép chia lấy dư = ", a % b)
+print("Phép lũy thừa = ",a ** b)
