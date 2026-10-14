@@ -1,5 +1,0 @@
-print(10 + 5 * 2)
-print((10 + 5) * 2)
-print(20 // 3)
-print(20 % 3)
-print(2 ** 4)
